@@ -1,1 +1,13 @@
+References
+codebasics.io
+khanacademy.org
+
+KhanAcademy
+Course:AP/College Computer Science Principles
+Unit 1 : Digital Information
+
+Binary - 0101
+Decimal - 5
+Integer representation - any number that can be written without a fractional component.
+All of these numbers are integers: 120, 10, 0, -20
 
